@@ -2,5 +2,7 @@
 
 <h1> Shopping list </h1>
 <ul>List 
-<li> Pen </li>
+	<li> Pen </li>
+	<li> Paper </li>
+	<li> bread </li>
   </ul>
