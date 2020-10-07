@@ -5,4 +5,5 @@
 	<li> Pen </li>
 	<li> Paper </li>
 	<li> bread </li>
+	<li> chips </li>
   </ul>
